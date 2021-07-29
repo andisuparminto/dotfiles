@@ -1,0 +1,3 @@
+feh --bg-fill ~/Pictures/wallpaper.jpg &
+tint2 &
+xinput set-prop "ELAN1200:00 04F3:303E Touchpad" "libinput Tapping Enabled" 1 &
